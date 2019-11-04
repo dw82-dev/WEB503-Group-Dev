@@ -1,0 +1,56 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  background-color: seagreen;
+}
+
+header div {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3rem;
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+nav {
+  padding: 1rem 2rem;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+  font-weight: bold;
+  padding: 2px;
+}
+
+nav li a {
+  padding: 1rem;
+  margin: 1rem;
+  text-decoration: none;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+nav li a:hover {
+  background: orange;
+  color: white;
+}
+
+.contact-links {
+  font-size: 40px;
+}
+
+.contact-links a {
+  padding: 12px;
+  color: #000;
+}
+
+.contact-links a:hover {
+  color: green;
+  transition: 1s;
+}
