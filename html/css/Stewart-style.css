@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  font-family: sans-serif;
+}
+
+.content {
+  /* margin-top: 20%; */
+  /* border: 2px solid black; */
+  padding: 20px;
+  display: flex;
+}
+
+.content .image {
+  margin: auto 0;
+  width: 90%;
+}
+
+.content img {
+  width: 100%;
+}
+
+.whyus {
+  text-align: right;
+  margin-left: 10%;
+}
+
+.whyus h2 {
+  color: orange;
+  font-size: 2em;
+}
+
+.whyus p {
+  font-size: 1.2em;
+  color: #444;
+}
+
+footer {
+  width: 100%;
+  background-color: #555;
+  line-height: 3em;
+  padding: 10px;
+  color: white;
+}
