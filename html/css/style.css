@@ -55,6 +55,12 @@ nav li a:hover {
   transition: 1s;
 }
 
+.contact-main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body {
   background-color: white;
   padding: 0;
