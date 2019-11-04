@@ -56,6 +56,8 @@ nav li a:hover {
 }
 
 .contact-main {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
   width: 50%;
   margin-left: auto;
   margin-right: auto;
@@ -114,7 +116,7 @@ header div{
 
 }
 
-p{
+p {
     margin-bottom: 0;
 }
 
