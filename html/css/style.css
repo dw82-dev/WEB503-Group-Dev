@@ -3,3 +3,34 @@ body {
   padding: 0;
   margin: auto;
 }
+
+.wrapper {
+  width: 100%;
+
+}
+
+.landing {
+  width: 100%;
+}
+
+.landing img {
+  width: 100%;
+}
+
+.title h1 {
+  font-family: 'Roboto', sans-serif;
+  vertical-align: middle;
+  margin-top: 100px;
+
+}
+
+.title {
+  position: absolute;
+  margin-top: 100px;
+  background-color: white;
+  height: 600px;
+  width: 600px;
+  border-radius: 50%;
+  text-align: center;
+
+}
