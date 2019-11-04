@@ -1,0 +1,17 @@
+title h1 {
+  font-family: 'Roboto', sans-serif;
+
+
+}
+
+.title {
+  margin-top: 10%;
+  position: absolute;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  background-color: rgba(255,255,255, 0.8);
+  width: 50%;
+  text-align: center;
+
+
+}
